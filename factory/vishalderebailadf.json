@@ -1,0 +1,9 @@
+{
+	"name": "vishalderebailadf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "fbf445a3-6fce-4653-8d15-8917550a30ba",
+		"tenantId": "7a8570cb-58f1-48ed-8847-8f4eed1c4d66"
+	}
+}
