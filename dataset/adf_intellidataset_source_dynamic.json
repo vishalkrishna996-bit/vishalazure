@@ -10,6 +10,9 @@
 				"type": "string"
 			}
 		},
+		"folder": {
+			"name": "adls datasets"
+		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
